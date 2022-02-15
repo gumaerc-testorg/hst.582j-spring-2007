@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: 15acc9f4-c41b-b7a1-5699-bd06a35ffc20
 title: Signal Processing Resources
 uid: a648947c-b349-6353-322e-9f3c12dbdcea

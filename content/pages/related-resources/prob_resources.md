@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: 15acc9f4-c41b-b7a1-5699-bd06a35ffc20
 title: Probability Resources
 uid: 30c5fe9b-abc2-407e-91c5-cb43c4e30fbd
