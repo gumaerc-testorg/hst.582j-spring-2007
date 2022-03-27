@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d60265c0-3541-c848-05ab-e9eb593cdd92
 resourcetype: Document
 title: lab1_ecg.pdf
 uid: d488a431-92bf-9e10-59c8-9bc756e7c16a

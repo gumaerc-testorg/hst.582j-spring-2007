@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4441427c-7995-6b09-6013-eca4f68a3ec4
 resourcetype: Document
 title: ch3_dtft.pdf
 uid: 6ce57106-d5f4-4376-8543-cbe3c6cc6b85

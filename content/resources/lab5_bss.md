@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d60265c0-3541-c848-05ab-e9eb593cdd92
 resourcetype: Document
 title: lab5_bss.pdf
 uid: d9bb82b2-0673-c8cd-4102-94a51c270feb

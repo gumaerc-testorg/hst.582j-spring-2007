@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 15c447ba-ff47-116a-5fe8-a17296ef31b1
 resourcetype: Other
 title: ps1matlab.zip
 uid: d736f440-3f0d-e11e-474c-d73f18e21a93

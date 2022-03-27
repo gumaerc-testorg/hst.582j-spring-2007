@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 15acc9f4-c41b-b7a1-5699-bd06a35ffc20
 resourcetype: Image
 title: jdsp_image.jpg
 uid: 5b483057-b0cc-4b6c-87e2-2114ce145d71

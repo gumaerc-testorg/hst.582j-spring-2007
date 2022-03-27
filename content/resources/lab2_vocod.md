@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d60265c0-3541-c848-05ab-e9eb593cdd92
 resourcetype: Document
 title: lab2_vocod.pdf
 uid: 8c0477fb-79b5-a893-0430-9e8a6efccdaa
