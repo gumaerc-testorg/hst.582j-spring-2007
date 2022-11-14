@@ -1,462 +1,266 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course and information
+  on lecture topics and instructors.
+draft: false
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 4441427c-7995-6b09-6013-eca4f68a3ec4
 ---
-
 Some of the lecture notes are chapters derived from 1999-2001 course notes written by Dr. Bertrand Delgutte. Chapter 9 was also originally co-authored by Paul Albrecht. These chapters are presented courtesy of the authors and used with permission.
 
-Key to instructors:  
-JG = Dr. Julie Greenberg  
-JF = Dr. John Fisher  
-SW = Dr. William Wells  
+Key to instructors:   
+JG = Dr. Julie Greenberg   
+JF = Dr. John Fisher   
+SW = Dr. William Wells   
 GC = Dr. Gari Clifford
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 INSTRUCTORS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 LECTURE NOTES
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Data acquisition
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 JG
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Introduction to Biomedical Signal and Image Processing ({{% resource_link d6481c39-0f02-7575-01c3-e87a13c2d5b6 "PDF" %}})
 
-Introduction to Biomedical Signal and Image Processing ([PDF]({{< baseurl >}}/resources/l1_intro))
+Chapter 1: data acquisition ({{% resource_link c8dc8096-a9d7-5f8f-30b4-b97354b48437 "PDF" %}})
 
-Chapter 1: data acquisition ([PDF]({{< baseurl >}}/resources/ch1_adc))
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Digital filtering
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 JG
-{{< tdclose >}}
-{{< tdopen >}}
-Chapter 2: digital filters ([PDF]({{< baseurl >}}/resources/ch2_dfilt))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Chapter 2: digital filters ({{% resource_link b60ddec5-2ee7-fc26-607f-8afc8a77daf5 "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 ECG
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Guest: Andrew Reisner, MD
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Slides: Introduction to Clinical Electrocardiography ({{% resource_link b3eebd1d-65ca-5683-3cf6-1e7c3975512b "PDF - 1.3 MB" %}}) (Courtesy of Andrew Reisner, MD. Used with permission.)
 
-Slides: Introduction to Clinical Electrocardiography ([PDF - 1.3 MB]({{< baseurl >}}/resources/l3_ecg_reisner)) (Courtesy of Andrew Reisner, MD. Used with permission.)
+_Reading_
 
-### Reading
+Reisner, A. T., G. Clifford, and R. Mark. "The Physiological Basis of the Electrocardiogram." Chapter 1 in _Advanced Methods and Tools for ECG Data Analysis_. Edited by Clifford, G., F. Azuaje, and P. McSharry. Norwood, MA: Artech House, 2006. ISBN: 9781580539661. ({{% resource_link 421dd46d-1c40-b7cb-f3a7-dc212f2351da "PDF" %}})
 
-Reisner, A. T., G. Clifford, and R. Mark. "The Physiological Basis of the Electrocardiogram." Chapter 1 in _Advanced Methods and Tools for ECG Data Analysis_. Edited by Clifford, G., F. Azuaje, and P. McSharry. Norwood, MA: Artech House, 2006. ISBN: 9781580539661. ([PDF]({{< baseurl >}}/resources/ecg_ch1))
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 DTFT
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 JG
-{{< tdclose >}}
-{{< tdopen >}}
-Chapter 3: Fourier representation of signals and systems ([PDF]({{< baseurl >}}/resources/ch3_dtft))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Chapter 3: Fourier representation of signals and systems ({{% resource_link 6ce57106-d5f4-4376-8543-cbe3c6cc6b85 "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 DFT
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 JG
-{{< tdclose >}}
-{{< tdopen >}}
-Chapter 4: the discrete Fourier transform ([PDF]({{< baseurl >}}/resources/ch4_dft))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Chapter 4: the discrete Fourier transform ({{% resource_link 65956b1f-5c26-2e91-18b1-95b077811d70 "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Sampling revisited
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 JG
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Chapter 5: sampling in time and frequency ({{% resource_link 54ae7489-6b15-e34e-9e7f-ea0d94c17777 "PDF" %}})
 
-Chapter 5: sampling in time and frequency ([PDF]({{< baseurl >}}/resources/ch5_samp))
+_Background Reading_
 
-### Background Reading
+Chapter 6: Z-transforms ({{% resource_link 5c07032b-3046-057b-92a2-50712f5e7163 "PDF" %}}) (not covered in class, but distributed for completeness)
 
-Chapter 6: Z-transforms ([PDF]({{< baseurl >}}/resources/ch6_ztrans)) (not covered in class, but distributed for completeness)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Speech signals
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 JG
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Quatieri, T. F. "Production and Classification of Speech Sounds." Chapter 3 in _Discrete-Time Speech Signal Processing: Principles and Practice_. Upper Saddle River, NJ: Prentice-Hall, 2001. ISBN: 9780132429429.
 
-Chapter 7: the short-time Fourier transform ([PDF]({{< baseurl >}}/resources/ch7_stft))
+Chapter 7: the short-time Fourier transform ({{% resource_link aefbcd4e-1b0b-96e5-1f2f-4f3b2f2d9f22 "PDF" %}})
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Speech coding
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 JG
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Chapter 7: the short-time Fourier transform (cont. from prior session)
 
-Chapter 8: linear prediction ([PDF]({{< baseurl >}}/resources/ch8_lpc))
+Chapter 8: linear prediction ({{% resource_link 2196bd20-e45d-3935-fd34-e6442f1217bd "PDF" %}})
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Image processing I
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 JG
-{{< tdclose >}}
-{{< tdopen >}}
-Chapter 9: image processing ([PDF]({{< baseurl >}}/resources/ch9_image))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Chapter 9: image processing ({{% resource_link c7944cf9-8cf3-d8b1-9b98-5e38f3306f31 "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 PDFs
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 JF
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Slides for Lec #10 and #11: decision systems ({{% resource_link ee4c1203-d78e-72ad-83ad-2026cdabcd0f "PDF" %}})
 
-Slides for Lec #10 and #11: decision systems ([PDF]({{< baseurl >}}/resources/l10_11_decision))
+Probability primer ({{% resource_link a8b6ba41-b39f-983f-9a3c-aa0bfd983faa "PDF" %}}), Venn diagrams ({{% resource_link 708a5432-a7e0-b60b-3c28-15798de7496f "PDF" %}})
 
-Probability primer ([PDF]({{< baseurl >}}/resources/ch10_prob)), Venn diagrams ([PDF]({{< baseurl >}}/resources/l10_venn))
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Classification
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 JF
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Slides continued from prior session
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Image processing II
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 SW
-{{< tdclose >}}
-{{< tdopen >}}
-Image processing 2 ([PDF]({{< baseurl >}}/resources/l13_ip2))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Image processing 2 ({{% resource_link 64b5ddd5-ff88-5130-2e9a-126341e0585d "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Estimating PDFs
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 JF
-{{< tdclose >}}
-{{< tdopen >}}
-Decision systems 2 - density estimation ([PDF]({{< baseurl >}}/resources/l14_densest))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Decision systems 2 - density estimation ({{% resource_link 0bfe433e-1dcd-849e-f41d-432faa1c3e00 "PDF" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Segmentation
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 SW
-{{< tdclose >}}
-{{< tdopen >}}
-Introduction to medical image segmentation ([PDF - 1.0 MB]({{< baseurl >}}/resources/l15_seg))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Introduction to medical image segmentation ({{% resource_link 074953ec-1051-5650-f220-01814e115273 "PDF - 1.0 MB" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Image registration I
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Guest: Lilla Zöllei
-{{< tdclose >}}
-{{< tdopen >}}
-Slides ([PDF - 1.3 MB]({{< baseurl >}}/resources/l16_reg1)) (Courtesy of Lilla Zöllei. Used with permission.)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Slides ({{% resource_link 5b0729e8-22b1-a675-90c3-3e00276c7ad8 "PDF - 1.3 MB" %}}) (Courtesy of Lilla Zöllei. Used with permission.)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Image registration II
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Guest: Lilla Zöllei
-{{< tdclose >}}
-{{< tdopen >}}
-Slides ([PDF - 2.5 MB]({{< baseurl >}}/resources/l17_reg2)) (Courtesy of Lilla Zöllei. Used with permission.)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Slides ({{% resource_link 08a8b4e8-e37a-98c3-b8fd-c6d6f15e1802 "PDF - 2.5 MB" %}}) (Courtesy of Lilla Zöllei. Used with permission.)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Imaging modalities
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 SW
-{{< tdclose >}}
-{{< tdopen >}}
-Medical image modalities ([PDF - 1.6 MB]({{< baseurl >}}/resources/l18_modalities))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Medical image modalities ({{% resource_link 93c46b6f-25a3-00a3-d134-410f0fea7da2 "PDF - 1.6 MB" %}})
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Random signals I
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 JF
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Slides for Lec #18 and #19: random signal processing ({{% resource_link ebeea1f7-c04f-69bf-fd1e-e905f9239598 "PDF - 1.5 MB" %}})
 
-Slides for Lec #18 and #19: random signal processing ([PDF - 1.5 MB]({{< baseurl >}}/resources/l19_20_randsig))
+_Reading_
 
-### Reading
+Chapter 11: random signals – basic properties ({{% resource_link be25eaf2-36f6-59be-2b4e-ef8690b8ff18 "PDF" %}})
 
-Chapter 11: random signals – basic properties ([PDF]({{< baseurl >}}/resources/ch11_randsig))
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Random signals II
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 JF
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Slides continued from prior session
 
-### Reading
+_Reading_
 
-Chapter 12: random signals and linear systems ([PDF]({{< baseurl >}}/resources/ch12_randsys))
+Chapter 12: random signals and linear systems ({{% resource_link 486d9caf-4d80-df83-da4a-5959b4a1d40e "PDF" %}})
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Blind source separation
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 GC
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Lecture slides ({{% resource_link 2b17a9b0-566b-cce9-f138-4bf7209b4654 "PDF - 1.8 MB" %}})
 
-Lecture slides ([PDF - 1.8 MB]({{< baseurl >}}/resources/l21_bss08))
+_Reading_
 
-### Reading
+Chapter 15: blind source separation ({{% resource_link 743b5821-c04a-d02f-3c25-c9dbafdc03b7 "PDF - 1.3 MB" %}})
 
-Chapter 15: blind source separation ([PDF - 1.3 MB]({{< baseurl >}}/resources/ch15_bss))
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 MRI
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Guest: R. V. Mulkern, PhD Department of Radiology, Children's Hospital Boston
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Surgical applications
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Random signals III
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 End of term wrap-up
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 JG
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
