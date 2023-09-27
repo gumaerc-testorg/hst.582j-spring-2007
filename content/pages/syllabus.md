@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section provides the course overview and information on
+  prerequisites, lecture topics, laboratory projects, bibliography, grading, and recommended
+  citation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
