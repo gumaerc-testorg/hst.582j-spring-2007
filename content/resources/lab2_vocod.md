@@ -3,6 +3,7 @@ content_type: resource
 description: 'Laboratory assignment on two different methods of speech coding: a channel
   vocoder and a linear prediction (LP) vocoder.'
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/8c0477fb79b5a89304309e8a6efccdaa_lab2_vocod.pdf
+file_size: 253347
 file_type: application/pdf
 learning_resource_types:
 - Labs

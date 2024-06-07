@@ -4,6 +4,7 @@ description: Lecture slides on automated decision making systems, information an
   statistics, elements of decision making systems, problem setup, estimating the bias
   of a coin, and multiple random variables.
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/ee4c1203d78e72ad83ad2026cdabcd0f_l10_11_decision.pdf
+file_size: 492431
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
