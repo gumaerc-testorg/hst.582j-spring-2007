@@ -3,6 +3,7 @@ content_type: resource
 description: Magnitude and phase of the FFT in a J-DSP Editor. (Courtesy of Prof.
   Andreas Spanias and J-DSP. Used with permission.)
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/5b483057b0cc4b6c87e22114ce145d71_jdsp_image.jpg
+file_size: 61562
 file_type: image/jpeg
 image_metadata:
   caption: ''

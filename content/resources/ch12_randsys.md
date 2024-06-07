@@ -4,6 +4,7 @@ description: Lecture notes on random signals and linear systems, response of LTI
   to random signals, crosscorrelation function between x[n]and y[n], autocorrelation
   function of y[n], white noise inputs, and the power spectrum.
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/486d9caf4d80df83da4a5959b4a1d40e_ch12_randsys.pdf
+file_size: 337366
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

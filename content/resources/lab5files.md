@@ -3,6 +3,7 @@ content_type: resource
 description: 'Supporting files for Lab 5. (The ZIP file contains: 10 .dat files and
   7 .m files.)'
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/38c5e53c22250fb5cb4ebd85f10eef14_lab5files.zip
+file_size: 200679
 file_type: application/zip
 learning_resource_types:
 - Labs

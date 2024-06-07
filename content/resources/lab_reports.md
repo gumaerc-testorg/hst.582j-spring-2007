@@ -3,6 +3,7 @@ content_type: resource
 description: Guidelines and instructions for completing laboratory reports for the
   course.
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/8454ddad46cc98cbbab5a4462835801a_lab_reports.pdf
+file_size: 109075
 file_type: application/pdf
 learning_resource_types:
 - Labs

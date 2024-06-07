@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on Z-transforms of filters defined by a difference equation,
   definition and properties, region of convergence, and inverse Z-transforms.
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/5c07032b3046057b92a250712f5e7163_ch6_ztrans.pdf
+file_size: 293859
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

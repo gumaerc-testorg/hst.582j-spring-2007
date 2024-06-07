@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/4a0c7a63e06fd7af24dec9b87eba1282_hst-582js07-th.jpg
+file_size: 7265
 file_type: image/jpeg
 image_metadata:
   caption: 'From a former student: "I liked this class so much that I was overjoyed
