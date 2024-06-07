@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set.
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/cf71a113ca295161bd5f3edec42426e0_ps2.pdf
+file_size: 136363
 file_type: application/pdf
 learning_resource_types:
 - Assignments

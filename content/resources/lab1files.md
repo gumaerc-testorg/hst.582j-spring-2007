@@ -3,6 +3,7 @@ content_type: resource
 description: 'Supporting files for Lab 1. (The ZIP file contains: 12 .txt files, 11
   .mat files and 1 .m file.)'
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/8900fe7d215ec3068342f2b91ecbe501_lab1files.zip
+file_size: 1499072
 file_type: application/zip
 learning_resource_types:
 - Labs

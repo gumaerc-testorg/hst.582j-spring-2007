@@ -4,6 +4,7 @@ description: Lecture slides on medical image modalities, survey of common medica
   image modalities, uses of medical images, application of image processing, and medical
   image analysis.
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/93c46b6f25a300a3d134410f0fea7da2_l18_modalities.pdf
+file_size: 966608
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
