@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture slides with an introduction to medical image segmentation, applications,
   terminology, probability review, intensity-based classification, prior models, and
   morphological pperators.
-file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/074953ec10515650f22001814e115273_l15_seg.pdf
+file: /ol-ocw-studio-app/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/074953ec10515650f22001814e115273_l15_seg.pdf
 file_size: 1050208
 file_type: application/pdf
 learning_resource_types:
