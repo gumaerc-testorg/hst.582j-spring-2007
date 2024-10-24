@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides with an introduction to medical image registration.
-file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/5b0729e822b1a67590c33e00276c7ad8_l16_reg1.pdf
+file: /ol-ocw-studio-app/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/5b0729e822b1a67590c33e00276c7ad8_l16_reg1.pdf
 file_size: 1440344
 file_type: application/pdf
 learning_resource_types:
