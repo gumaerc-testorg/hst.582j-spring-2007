@@ -14,7 +14,7 @@ uid: 15acc9f4-c41b-b7a1-5699-bd06a35ffc20
 - Gari Clifford's links: [General](http://www.mit.edu/~gari/teaching.html), [Algorithms](http://www.mit.edu/~gari/algos.html)
 - [Spectral Analysis Interactive Tutor (PDF)](ftp://ftp.ni.com/pub/devzone/LabVIEW_Spectral_Tutorial.pdf)
 - [Spectral Analysis Interactive Demo](http://web.mit.edu/6.555/www/applet/DFT.html)
-- [Independent Component Analysis (ICA) demo](http://www.cis.hut.fi/projects/ica/cocktail/cocktail_en.cgi) ("the cocktail party problem")
+- [Independent Component Analysis (ICA) demo](https://www.kaggle.com/code/anashamoutni/cocktail-party-problem-tutorial-using-fastica) ("the cocktail party problem")
 
 ## Related Links
 
