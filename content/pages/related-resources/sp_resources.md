@@ -17,9 +17,9 @@ This page describes several applets and on-line tutorials that cover some of the
 
 [JHU Signals, Systems & Control Demonstrations](http://www.jhu.edu/~signals/) - Has many different tutorials and applets available. In general the applets on this site are the best of those listed. If you are limited on time, go to this site.
 
-[J-DSP](http://jdsp.asu.edu/jdsp.html) - A very broad application where the user defines what signal processing is done through the setting up of a block diagram. Takes a little time initially to become familiar with the application, but can be very useful. A detailed description follows in its own section below.
+[J-DSP](https://jdsp.dev/) - A very broad application where the user defines what signal processing is done through the setting up of a block diagram. Takes a little time initially to become familiar with the application, but can be very useful. A detailed description follows in its own section below.
 
-[Gibbs Phenomenon](/ans7870/18/18.06/javademo/Gibbs/)
+[Gibbs Phenomenon](https://ocw-studio.odl.mit.edu/ans7870/18/18.06/javademo/Gibbs/)
 
 MIT's Linear Algebra 18.06
 
@@ -35,7 +35,7 @@ MIT's Linear Algebra 18.06
 
 [JHU Discrete-Time Convolution](http://www.jhu.edu/~signals/discreteconv2/index.html) - Discrete Time convolution applet that is easy to use and shows the flip and shift method. Not a lot of explanation provided.
 
-[J-DSP](http://jdsp.asu.edu/jdsp.html) - See below.
+[J-DSP](https://jdsp.dev/) - See below.
 
 ## DTFT and DFT: FFT, Overlap-Add, Overlap-Save
 
@@ -43,7 +43,7 @@ MIT's Linear Algebra 18.06
 
 [JHU Continuous Fourier Transform](http://www.jhu.edu/~signals/ctftprops/indexCTFTprops.htm) - Continuous Time Fourier Transform (CTFT): Gives some properties of the CTFT, and allows the user to view the changes to the magnitude and phase of the transform given a change in amplitude, time shift, or derivative of the original signal.
 
-[J-DSP](http://jdsp.asu.edu/jdsp.html) - See below.
+[J-DSP](https://jdsp.dev/) - See below.
 
 ## Spectral Analysis
 
@@ -51,7 +51,7 @@ Interactive demonstration of spectral analysis developed for this course and use
 
 ## J-DSP
 
-Java Digital Signal Processing ([J-DSP](http://jdsp.asu.edu/jdsp.html)) is an on-line DSP simulator. The program is very broad and does not target a specific topic like the other tutorials. But it can be very useful for filter design, FFT evaluation, and even speech analysis. J-DSP does take a little bit of time to get used to, however.
+Java Digital Signal Processing ([J-DSP](https://jdsp.dev/)) is an on-line DSP simulator. The program is very broad and does not target a specific topic like the other tutorials. But it can be very useful for filter design, FFT evaluation, and even speech analysis. J-DSP does take a little bit of time to get used to, however.
 
 ### Filter Example
 
