@@ -2,7 +2,7 @@
 content_type: resource
 description: Laboratory assignment to design a filter for conditioning the electrocardiogram
   signal and a monitoring system to detect abnormal rhythms.
-file: /ol-ocw-studio-app/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/d488a43192bf9e1059c89bc756e7c16a_lab1_ecg.pdf
+file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/d488a43192bf9e1059c89bc756e7c16a_lab1_ecg.pdf
 file_size: 277242
 file_type: application/pdf
 learning_resource_types:

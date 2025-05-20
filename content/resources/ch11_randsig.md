@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on time averages, properties of time averages, crosscorrelation
   functions, probability density functions, and memoryless transformations of random
   signals.
-file: /ol-ocw-studio-app/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/be25eaf236f659be2b4eef8690b8ff18_ch11_randsig.pdf
+file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/be25eaf236f659be2b4eef8690b8ff18_ch11_randsig.pdf
 file_size: 569727
 file_type: application/pdf
 learning_resource_types:

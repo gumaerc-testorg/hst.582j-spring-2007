@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on image processing, 2-D continuous space Fourier transform,
   rotation theorem, projection-slice theorem, magnitude and phase of images, convolution
   and 2-D filters, the 2-D discrete Fourier transform, and 2-D random signals
-file: /ol-ocw-studio-app/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/c7944cf98cf3d8b19b985e38f3306f31_ch9_image.pdf
+file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/c7944cf98cf3d8b19b985e38f3306f31_ch9_image.pdf
 file_size: 468598
 file_type: application/pdf
 learning_resource_types:
