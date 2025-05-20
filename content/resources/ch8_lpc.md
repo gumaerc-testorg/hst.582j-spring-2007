@@ -4,7 +4,7 @@ description: Lecture notes on linear prediction, the all-pole model of speech, r
   of linear prediction to the all-pole model, autocorrelation method of linear prediction,
   the Yule-Walker equations, determination of the gain, efficient solution by the
   Levinson-Durbin algorithm, and frequency-domain interpretation of linear prediction.
-file: /ol-ocw-studio-app/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/2196bd20e45d3935fd34e6442f1217bd_ch8_lpc.pdf
+file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/2196bd20e45d3935fd34e6442f1217bd_ch8_lpc.pdf
 file_size: 525954
 file_type: application/pdf
 learning_resource_types:

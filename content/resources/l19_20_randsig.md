@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on random signals, statistics, and signal processing.
-file: /ol-ocw-studio-app/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/ebeea1f7c04f69bffd1ee905f9239598_l19_20_randsig.pdf
+file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/ebeea1f7c04f69bffd1ee905f9239598_l19_20_randsig.pdf
 file_size: 1683492
 file_type: application/pdf
 learning_resource_types:

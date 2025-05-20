@@ -4,7 +4,7 @@ description: Lecture notes on digital filters, filters defined by linear differe
   equations, finite-impulse response and infinite-impulse response filters, recursively
   computable difference equations, LTI systems, and properties of convolution/combinations
   of filters.
-file: /ol-ocw-studio-app/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/b60ddec52ee7fc26607f8afc8a77daf5_ch2_dfilt.pdf
+file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/b60ddec52ee7fc26607f8afc8a77daf5_ch2_dfilt.pdf
 file_size: 317071
 file_type: application/pdf
 learning_resource_types:
