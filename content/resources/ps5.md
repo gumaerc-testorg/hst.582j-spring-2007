@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /ol-ocw-studio-app/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/bceed5f6d3ea5edc7cbc580869f878f3_ps5.pdf
+file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/bceed5f6d3ea5edc7cbc580869f878f3_ps5.pdf
 file_size: 156631
 file_type: application/pdf
 learning_resource_types:

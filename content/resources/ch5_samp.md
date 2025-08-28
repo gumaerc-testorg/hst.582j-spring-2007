@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on sampling in time, Nyquist?s sampling theorem revisited,
   sampling in frequency, and the discrete Fourier transform.
-file: /ol-ocw-studio-app/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/54ae74896b15e34e9e7fea0d94c17777_ch5_samp.pdf
+file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/54ae74896b15e34e9e7fea0d94c17777_ch5_samp.pdf
 file_size: 786185
 file_type: application/pdf
 learning_resource_types:

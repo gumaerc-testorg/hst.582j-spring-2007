@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on Fourier representation of signals and systems, frequency
   response of LTI systems, responses to sums of complex exponentials, Fourier representation
   of discrete-time signals, and discrete-time Fourier transform.
-file: /ol-ocw-studio-app/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/6ce57106d5f443768543cbe3c6cc6b85_ch3_dtft.pdf
+file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/6ce57106d5f443768543cbe3c6cc6b85_ch3_dtft.pdf
 file_size: 683824
 file_type: application/pdf
 learning_resource_types:

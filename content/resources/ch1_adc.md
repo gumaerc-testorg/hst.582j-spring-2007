@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on data acquisition, continuous-time and discrete-time
   signals, the Nyquist sampling theorem, and quantization.
-file: /ol-ocw-studio-app/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/c8dc8096a9d75f8f30b4b97354b48437_ch1_adc.pdf
+file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/c8dc8096a9d75f8f30b4b97354b48437_ch1_adc.pdf
 file_size: 818137
 file_type: application/pdf
 learning_resource_types:

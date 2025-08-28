@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on Venn diagrams and probability.
-file: /ol-ocw-studio-app/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/708a5432a7e0b60b3c2815798de7496f_l10_venn.pdf
+file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/708a5432a7e0b60b3c2815798de7496f_l10_venn.pdf
 file_size: 556544
 file_type: application/pdf
 learning_resource_types:
