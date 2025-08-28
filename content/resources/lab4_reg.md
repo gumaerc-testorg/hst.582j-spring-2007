@@ -4,11 +4,11 @@ description: Laboratory assignment to investigate the behavior of several object
   functions on various 2D images in a rigid-motions scenario (translation and rotation
   only), by way of probing the objective functions. The project culminates in an experiment
   concerning the automated registration of MRI and CT (optionally PET)in 2D.
-file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/053df9071e85e828c0a03c054e45ef02_lab4_reg.pdf
+file: /ol-ocw-studio-app/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/053df9071e85e828c0a03c054e45ef02_lab4_reg.pdf
 file_size: 204275
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
