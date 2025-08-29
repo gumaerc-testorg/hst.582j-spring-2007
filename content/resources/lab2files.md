@@ -2,11 +2,11 @@
 content_type: resource
 description: 'Supporting files for Lab 2. (The ZIP file contains: 2 .mat files and
   13 .m files.)'
-file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/e803bf5623c5394c5d5109bf9641ee2e_lab2files.zip
+file: /ol-ocw-studio-app/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/e803bf5623c5394c5d5109bf9641ee2e_lab2files.zip
 file_size: 383110
 file_type: application/zip
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

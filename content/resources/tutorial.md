@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Tutorial on using MATLAB? for the lab assignments.
-file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/cff753183e34395ce6b01d40422b66bf_tutorial.pdf
+file: /ol-ocw-studio-app/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/cff753183e34395ce6b01d40422b66bf_tutorial.pdf
 file_size: 264389
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
