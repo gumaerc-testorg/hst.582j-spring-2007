@@ -80,7 +80,7 @@ Papoulis, A., and S. U. Pillai. _Probability, Random Variables, and Stochastic P
 
 ### Basics
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262192293) Siebert, W. M. [_Circuits, Signals and Systems_](https://mitpress.mit.edu/9780262192293). Cambridge, MA: MIT Press, 1985. ISBN: 9780262192293.
+{{% resource_link "649ccfad-4e0f-4a31-bc89-5f30529494aa" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Siebert, W. M. {{% resource_link "649ccfad-4e0f-4a31-bc89-5f30529494aa" "_Circuits, Signals and Systems_" %}}. Cambridge, MA: MIT Press, 1985. ISBN: 9780262192293.
 
 Oppenheim, A. V., and A. S. Willsky, with H. Nawab. _Signals and Systems_. 2nd ed. Upper Saddle River: Prentice-Hall, 1996. ISBN: 9780138147570.
 
@@ -94,11 +94,11 @@ Duda, R., P. Hart, and D. Stork. _Pattern Classification_. 2nd ed. New York, NY:
 
 Bishop, C. _Neural Networks for Pattern Recognition_. New York, NY: Oxford University Press, 1996. ISBN: 9780198538646.
 
-Nabney, I. [_Netlab: Algorithms for Pattern Recognition_](https://www.mathworks.com/support/books/book48297.html). 3rd ed. New York, NY: Springer, 2004. ISBN: 9781852334406.
+Nabney, I. {{% resource_link "2d22ef3f-465c-4ed0-8b20-1d2320d704d6" "_Netlab: Algorithms for Pattern Recognition_" %}}. 3rd ed. New York, NY: Springer, 2004. ISBN: 9781852334406.
 
 ### ECG Analysis
 
-Clifford, G., F. Azuajae, and P. McSharry. [_Advanced Methods and Tools for ECG Data Analysis_](http://www.mit.edu/~gari/ecgbook.html). Norwood, MA: Artech House, 2006. ISBN: 9871580539661.
+Clifford, G., F. Azuajae, and P. McSharry. {{% resource_link "7d0a82c9-9acd-49e0-8000-6bd176837d12" "_Advanced Methods and Tools for ECG Data Analysis_" %}}. Norwood, MA: Artech House, 2006. ISBN: 9871580539661.
 
 ### Speech Analysis
 
